@@ -4,8 +4,8 @@ This is Socket Programming using Python!!!
 These is real time chat system in which we can chat to our friends, just using IP address of server!!!
 
 Just clone my Repo and you will get two python files:
-1)Server.py
-2)client.py
+1) Server.py
+2) client.py
 
 run command:
 python3 Server.py in one terminal
